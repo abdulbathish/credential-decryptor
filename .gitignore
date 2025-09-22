@@ -1,0 +1,26 @@
+# Certificates and private keys
+*.key
+*.cert
+*.pem
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS specific
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE specific
+.vscode/
+.idea/
+*.swp
+*.swo

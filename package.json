@@ -1,0 +1,9 @@
+{
+  "name": "credential-decryptor",
+  "version": "1.0.0",
+  "description": "MOSIP encrypted data decryptor",
+  "main": "decryptor-final.js",
+  "dependencies": {
+    "node-forge": "^1.3.1"
+  }
+}
